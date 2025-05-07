@@ -14,10 +14,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
