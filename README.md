@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0009-palindrome-number) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
 ## Array
 |  |
