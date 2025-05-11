@@ -19,6 +19,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhhKaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
