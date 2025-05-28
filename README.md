@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShubhhKaushik/LeetCode/tree/master/0217-contains-duplicate) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +79,9 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## String
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
