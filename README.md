@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0344-reverse-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
