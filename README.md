@@ -42,6 +42,7 @@
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ShubhhKaushik/LeetCode/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ShubhhKaushik/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0344-reverse-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
