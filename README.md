@@ -73,6 +73,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShubhhKaushik/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -110,6 +111,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhhKaushik/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShubhhKaushik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShubhhKaushik/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ShubhhKaushik/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ShubhhKaushik/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0344-reverse-string) |
