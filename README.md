@@ -12,6 +12,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ShubhhKaushik/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShubhhKaushik/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ShubhhKaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
@@ -93,6 +94,7 @@
 | [0088-merge-sorted-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShubhhKaushik/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ShubhhKaushik/LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0058-length-of-last-word](https://github.com/ShubhhKaushik/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShubhhKaushik/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShubhhKaushik/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ShubhhKaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0344-reverse-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
