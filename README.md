@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ShubhhKaushik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ShubhhKaushik/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ShubhhKaushik/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ShubhhKaushik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ShubhhKaushik/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ShubhhKaushik/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhhKaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
