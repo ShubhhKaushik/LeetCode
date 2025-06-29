@@ -27,6 +27,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ShubhhKaushik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
+| [2630-alternating-digit-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Array
 |  |
 | ------- |
