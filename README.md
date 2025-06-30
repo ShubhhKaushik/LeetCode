@@ -26,6 +26,7 @@
 | [0069-sqrtx](https://github.com/ShubhhKaushik/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ShubhhKaushik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
 | [2630-alternating-digit-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Array
@@ -135,6 +136,7 @@
 | [0344-reverse-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ShubhhKaushik/LeetCode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShubhhKaushik/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
 ## Tree
 |  |
 | ------- |
