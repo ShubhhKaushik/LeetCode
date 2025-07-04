@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/ShubhhKaushik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ShubhhKaushik/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShubhhKaushik/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ShubhhKaushik/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ShubhhKaushik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ShubhhKaushik/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShubhhKaushik/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhhKaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShubhhKaushik/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
