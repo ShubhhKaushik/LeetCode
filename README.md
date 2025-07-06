@@ -136,6 +136,7 @@
 | [0125-valid-palindrome](https://github.com/ShubhhKaushik/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ShubhhKaushik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/ShubhhKaushik/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ShubhhKaushik/LeetCode/tree/master/0389-find-the-difference) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -202,6 +204,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -210,6 +213,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
 | ------- |
@@ -218,4 +222,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
