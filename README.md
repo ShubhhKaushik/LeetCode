@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/ShubhhKaushik/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShubhhKaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ShubhhKaushik/LeetCode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
@@ -49,6 +50,7 @@
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ShubhhKaushik/LeetCode/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
