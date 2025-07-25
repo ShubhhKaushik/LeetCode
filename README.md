@@ -50,6 +50,7 @@
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ShubhhKaushik/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -72,6 +73,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhhKaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -101,6 +103,7 @@
 | [0035-search-insert-position](https://github.com/ShubhhKaushik/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ShubhhKaushik/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhhKaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
@@ -115,6 +118,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ShubhhKaushik/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ShubhhKaushik/LeetCode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
