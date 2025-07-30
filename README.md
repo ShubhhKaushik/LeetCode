@@ -198,6 +198,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -215,6 +216,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -226,6 +228,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
@@ -237,6 +240,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0112-path-sum) |
 ## Backtracking
 |  |
 | ------- |
