@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhhKaushik/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShubhhKaushik/LeetCode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ShubhhKaushik/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShubhhKaushik/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -42,6 +43,7 @@
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ShubhhKaushik/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhhKaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +127,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -203,6 +206,7 @@
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhhKaushik/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -224,6 +228,7 @@
 | [0100-same-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhhKaushik/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
