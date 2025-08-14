@@ -132,6 +132,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShubhhKaushik/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShubhhKaushik/LeetCode/tree/master/0169-majority-element) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShubhhKaushik/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ShubhhKaushik/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShubhhKaushik/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0086-partition-list) |
@@ -280,5 +282,10 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShubhhKaushik/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShubhhKaushik/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
