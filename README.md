@@ -57,6 +57,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1646-kth-missing-positive-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ShubhhKaushik/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
