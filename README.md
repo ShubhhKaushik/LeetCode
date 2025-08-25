@@ -168,6 +168,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ShubhhKaushik/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
+| [1542-consecutive-characters](https://github.com/ShubhhKaushik/LeetCode/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShubhhKaushik/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
