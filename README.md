@@ -57,6 +57,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ShubhhKaushik/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ShubhhKaushik/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -103,12 +104,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
