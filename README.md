@@ -61,6 +61,7 @@
 | [0645-set-mismatch](https://github.com/ShubhhKaushik/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ShubhhKaushik/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1646-kth-missing-positive-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
@@ -105,6 +106,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ShubhhKaushik/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -112,6 +114,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ShubhhKaushik/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
