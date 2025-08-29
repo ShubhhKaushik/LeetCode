@@ -106,6 +106,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ShubhhKaushik/LeetCode/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ShubhhKaushik/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhhKaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ShubhhKaushik/LeetCode/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ShubhhKaushik/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
@@ -313,8 +315,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/ShubhhKaushik/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ShubhhKaushik/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
