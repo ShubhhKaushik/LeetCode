@@ -108,6 +108,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ShubhhKaushik/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShubhhKaushik/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhhKaushik/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/ShubhhKaushik/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -320,6 +321,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ShubhhKaushik/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/ShubhhKaushik/LeetCode/tree/master/0937-online-stock-span) |
