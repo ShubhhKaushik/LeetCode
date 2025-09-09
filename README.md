@@ -112,6 +112,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0933-increasing-order-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ShubhhKaushik/LeetCode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/ShubhhKaushik/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -263,12 +264,14 @@
 | [0543-diameter-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,6 +301,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ShubhhKaushik/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ShubhhKaushik/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Memoization
 |  |
 | ------- |
