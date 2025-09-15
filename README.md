@@ -18,6 +18,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShubhhKaushik/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ShubhhKaushik/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShubhhKaushik/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -195,6 +196,7 @@
 | [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/ShubhhKaushik/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShubhhKaushik/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ShubhhKaushik/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1542-consecutive-characters](https://github.com/ShubhhKaushik/LeetCode/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShubhhKaushik/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
