@@ -36,6 +36,7 @@
 | [0189-rotate-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShubhhKaushik/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2630-alternating-digit-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Array
 |  |
@@ -69,6 +70,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ShubhhKaushik/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1646-kth-missing-positive-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ShubhhKaushik/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShubhhKaushik/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ShubhhKaushik/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShubhhKaushik/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
@@ -255,6 +258,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ShubhhKaushik/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShubhhKaushik/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
@@ -354,6 +358,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShubhhKaushik/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShubhhKaushik/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
