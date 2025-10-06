@@ -37,6 +37,7 @@
 | [0415-add-strings](https://github.com/ShubhhKaushik/LeetCode/tree/master/0415-add-strings) |
 | [1500-count-largest-group](https://github.com/ShubhhKaushik/LeetCode/tree/master/1500-count-largest-group) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShubhhKaushik/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2481-strictly-palindromic-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2630-alternating-digit-sum](https://github.com/ShubhhKaushik/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Array
 |  |
@@ -97,6 +98,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShubhhKaushik/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -367,4 +369,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ShubhhKaushik/LeetCode/tree/master/0085-maximal-rectangle) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
