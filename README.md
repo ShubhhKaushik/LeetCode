@@ -16,6 +16,7 @@
 | [0242-valid-anagram](https://github.com/ShubhhKaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ShubhhKaushik/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ShubhhKaushik/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ShubhhKaushik/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhhKaushik/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShubhhKaushik/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -65,6 +66,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhhKaushik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ShubhhKaushik/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ShubhhKaushik/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ShubhhKaushik/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -373,4 +375,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShubhhKaushik/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
