@@ -70,6 +70,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ShubhhKaushik/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhhKaushik/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ShubhhKaushik/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-min-cost-climbing-stairs](https://github.com/ShubhhKaushik/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ShubhhKaushik/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ShubhhKaushik/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ShubhhKaushik/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -112,6 +113,7 @@
 | [0118-pascals-triangle](https://github.com/ShubhhKaushik/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShubhhKaushik/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhhKaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/ShubhhKaushik/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ShubhhKaushik/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
