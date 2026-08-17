@@ -393,4 +393,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShubhhKaushik/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhhKaushik/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShubhhKaushik/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
